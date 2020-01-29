@@ -3,9 +3,9 @@
 We meet every Wednesday night:
 
 <div class="important">
-Wednesday 6.15 - 7.45pm
-Newstead Community Centre (Mechanics Hall)
-[9 Lyons St, Newstead VIC 3462](https://goo.gl/maps/gNHNJz7xdKCa7ZGw5)
+Wednesday 6.15 - 7.45pm<br>
+Newstead Community Centre (Mechanics Hall)<br>
+<a href="https://goo.gl/maps/gNHNJz7xdKCa7ZGw5" target="_blank">9 Lyons St, Newstead VIC 3462</a><br>
 Bring shoes
 </div>
 
