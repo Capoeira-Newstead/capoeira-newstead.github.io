@@ -18,12 +18,29 @@ Capoeira is an Afro-Brazilian martial art, dance and music. It looks like this:
 It's mostly non-contact, a friendly game to build strength, flexibility and
 have fun.
 
-In the broader perspective, Capoeira is a social movement for freedom. Read
+In the broader perspective, Capoeira is a social movement for freedom.
+It was developed by the enslaved Africans in Brazil and is now practiced all
+around the world. Read
 the [Capoeira Wikipedia article](https://en.wikipedia.org/wiki/Capoeira) to
-learn more about its history. It became popular when Mestre Bimba introduced
-elements of other martial arts and opened a public Capoeira school. Others
-prefer to keep it traditional and refer to the old style as Capoeira Angola.
-And that is the style we are practising in Newstead today.
+learn more about its history.
+We practise the traditional version, Capoeira Angola.
+
+### The training
+
+Everybody is welcome to train with us. There is no set term schedule and you
+can start at any time. We do a good warm-up, learn a few Capoeira moves and
+then play as much as time and skill permits.
+
+We focus on movements because we don't have any musical instruments at the
+moment. The style of Capoeira Angola is to learn movements in little steps,
+first slow and small until you have the strength and precision to control the
+movement at faster speeds.
+
+You don't need to be very fit to learn Capoeira. Building strength is part of
+the training. Just drop in and see if you like it. The first session is always
+free. After that, a little contribution towards the room rent would be nice
+(up to $5 depending on the number of people).
+
 
 ### Where are other groups?
 
