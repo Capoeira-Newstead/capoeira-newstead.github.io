@@ -6,7 +6,7 @@ We meet every Wednesday night:
 Wednesday 6.15 - 7.45pm<br>
 Newstead Community Centre (Mechanics Hall)<br>
 <a href="https://goo.gl/maps/gNHNJz7xdKCa7ZGw5" target="_blank">9 Lyons St, Newstead VIC 3462</a><br>
-Bring shoes
+Bring shoes with a flexible sole
 </div>
 
 ### What is Capoeira?
@@ -41,8 +41,15 @@ the training. Just drop in and see if you like it. The first session is always
 free. After that, a little contribution towards the room rent would be nice
 (up to $5 depending on the number of people).
 
+### Who is running this?
+
+The group was started by Maikel Linke. He discovered Capoeira at university in
+Germany. That was in 2005 and it has become his favourite exercise since. After
+moving to regional Victoria, it was a challenge to visit classes in Melbourne
+regularly. So here it is, a local meet-up to continue the practise and build
+community.
 
 ### Where are other groups?
 
-To the best of my knowledge, the next Capoeira groups outside of Newstead are
+To the best of our knowledge, the next Capoeira groups outside of Newstead are
 [in Melbourne](https://capoeira-melbourne.github.io/).
