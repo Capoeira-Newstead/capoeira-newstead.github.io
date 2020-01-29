@@ -11,8 +11,6 @@ We meet every Wednesday night:
 
 Capoeira is an Afro-Brazilian martial art, dance and music. It looks like this:
 
-![Capoeira Angola played in Melbourne](Capoeira-screenshot.png)
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CGcOW1TrlB4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It's mostly non-contact, a friendly game to build strength, flexibility and
