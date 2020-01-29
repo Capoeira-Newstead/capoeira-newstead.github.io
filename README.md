@@ -2,10 +2,10 @@
 
 We meet every Wednesday night:
 
-    Wednesday 6.15 - 7.45pm
-    Newstead Community Centre (Mechanics Hall)
-    [9 Lyons St, Newstead VIC 3462](https://goo.gl/maps/gNHNJz7xdKCa7ZGw5)
-    Bring shoes
+> Wednesday 6.15 - 7.45pm
+> Newstead Community Centre (Mechanics Hall)
+> [9 Lyons St, Newstead VIC 3462](https://goo.gl/maps/gNHNJz7xdKCa7ZGw5)
+> Bring shoes
 
 ### What is Capoeira?
 
