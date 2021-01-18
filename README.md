@@ -41,6 +41,10 @@ the training. Just drop in and see if you like it. The first session is always
 free. After that, a little contribution towards the room rent would be nice
 (up to $5 depending on the number of people).
 
+<video controls width="100%">
+<source src="https://github.com/Capoeira-Newstead/capoeira-newstead.github.io/blob/master/Capoeira_Newstead_2020.webm?raw=true" type="video/webm">
+</video>
+
 ### Who is running this?
 
 The group was started by Maikel Linke. He discovered Capoeira at university in
